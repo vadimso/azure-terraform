@@ -1,4 +1,5 @@
 note: before using Terraform please install AZURE-CLI for authentication to Azure cloud resources
+
 terraform used version : Terraform v1.5.1
 
 Installation
