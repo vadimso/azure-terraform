@@ -2,7 +2,7 @@ note: before using Terraform please install AZURE-CLI for authentication to Azur
 
 terraform used version : Terraform v1.5.1
 
-Installation
+Azure-CLI Installation
 
 Please refer to the install guide for detailed install instructions.
 https://learn.microsoft.com/en-us/cli/azure/install-azure-cli
